@@ -1,3 +1,5 @@
+you can view the site live https://abdisalam-abdulahi.github.io/Sprint-Project---Build-A-Marketing-Website/
+
 # Sprint Project: Build A Marketing Website
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
